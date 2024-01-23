@@ -3,10 +3,10 @@ import requests,json
 url = 'https://oauth2.googleapis.com/token'
 
 data = {
-    'client_id': '704741266613-pt65jkq2r8iuvuq60hgmos5nqe3qrvdm.apps.googleusercontent.com',
-    'client_secret': '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',
+    'client_id': '',
+    'client_secret': '',
     'grant_type':'refresh_token',
-    'refresh_token':'1//0gU6d7xNsmDigCgYIARAAGBASNwF-L9IrnxNGaj-30s3yFHvc2WP5y6Og4YSMq0nQIjueNTotyN_9npagP5RjMb6uWLqUrfFB7GE'
+    'refresh_token':''
 }
 
 
